@@ -3,7 +3,7 @@ package Entrega_00;
 
 public class Entrega_00 {
     static Entrega_00 obj = new Entrega_00();
-    Estudiante estudiante01 = new Estudiante("Cristian", "cperez123", "1025524640", 20, "2do Semestre");
+    Estudiante estudiante01 = new Estudiante("Criko", "cperez123", "1025524640", 20, "2do Semestre");
     Estudiante estudiante02 = new Estudiante("Pepe", "123456789", "1025430971", 54, "11vo Semestre");
 
     public static void main(String[] args) {
